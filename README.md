@@ -2,7 +2,7 @@
 
 Backend engineer focused on Go and Python. I like building things that are fast, simple, and useful — CLIs, APIs, and systems that do one job well.
 
-Currently a 3rd-year ECE student at NIT Agartala.
+Currently a final-year ECE student at NIT Agartala.
 
 ---
 
@@ -10,7 +10,7 @@ Currently a 3rd-year ECE student at NIT Agartala.
 
 **Languages:** Go · Python · C · C++  
 **Backend:** REST APIs · CLI tools · Concurrency · Docker  
-**Databases:** PostgreSQL · SQL  
+**Databases:** PostgreSQL · SQL 
 **Tools:** Git · Linux
 
 ---
