@@ -17,9 +17,11 @@ Currently a final-year ECE student at NIT Agartala.
 
 ## 📂 Projects
 
-**[Pokédex CLI](https://github.com/kryptonn36)** — Go-based REPL Pokédex with PokeAPI integration and LRU caching via goroutines.  
-**[Blog Aggregator](https://github.com/kryptonn36)** — Automated RSS feed ingester with scheduled workers and a normalized PostgreSQL schema.  
-**[Asteroid Game](https://github.com/kryptonn36)** — 2D arcade game in Python/Pygame with vector-based physics and modular architecture.
+**[Pokédex CLI](https://github.com/kryptonn36/pokedexCLI)** — Go-based REPL Pokédex with PokeAPI integration and LRU caching via goroutines.  
+**[Blog Aggregator](https://github.com/kryptonn36/Blog_aggreator)** — Automated RSS feed ingester with scheduled workers and a normalized PostgreSQL schema.  
+**[Asteroid Game](https://github.com/kryptonn36/asteroids_game)** — 2D arcade game in Python/Pygame with vector-based physics and modular architecture.  
+**[ThubmnailIQ](https://github.com/kryptonn36/ThubmnailIQ)** — Thumbnail-focused project showcasing image and content processing capabilities.  
+**[RescueNet](https://github.com/kryptonn36/RescueNet)** — Project focused on building tools and systems for rescue and emergency response scenarios.
 
 ---
 
